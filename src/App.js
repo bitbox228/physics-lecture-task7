@@ -71,7 +71,6 @@ const App = () => {
     }
 
     const handlePlotUpdate = () => {
-        console.log(w1, w2, a, t)
         if (!checkForms()) {
             return
         }
