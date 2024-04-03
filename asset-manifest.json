@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/physics-lecture-task7/static/css/main.ff02f4b5.css",
-    "main.js": "/physics-lecture-task7/static/js/main.5e15392f.js",
+    "main.js": "/physics-lecture-task7/static/js/main.1558dfcd.js",
     "index.html": "/physics-lecture-task7/index.html",
     "main.ff02f4b5.css.map": "/physics-lecture-task7/static/css/main.ff02f4b5.css.map",
-    "main.5e15392f.js.map": "/physics-lecture-task7/static/js/main.5e15392f.js.map"
+    "main.1558dfcd.js.map": "/physics-lecture-task7/static/js/main.1558dfcd.js.map"
   },
   "entrypoints": [
     "static/css/main.ff02f4b5.css",
-    "static/js/main.5e15392f.js"
+    "static/js/main.1558dfcd.js"
   ]
 }
